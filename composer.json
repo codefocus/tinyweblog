@@ -1,0 +1,19 @@
+{
+    "name": "codefocus/tinyweblog",
+    "type": "library",
+    "description": "An embeddable PHP blog class for developers.",
+    "homepage": "https://github.com/codefocus/tinyweblog",
+    "keywords": ["tinyweblog", "blog", "tinyblog"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Codefocus web development",
+            "email": "info@codefocus.ca",
+            "homepage": "http://www.codefocus.ca/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "dflydev/markdown": ">=1.0.2"
+    }
+}
